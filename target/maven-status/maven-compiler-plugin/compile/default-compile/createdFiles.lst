@@ -1,0 +1,9 @@
+com\company\connect\ConnectionMySQL.class
+com\company\questions\QuestionsServer.class
+com\company\crib\Crib.class
+com\company\Bot.class
+com\company\Main.class
+com\company\button\Buttons.class
+com\company\message\Messages.class
+com\company\strings\StringFile.class
+com\company\poll\Polls.class
